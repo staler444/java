@@ -1,3 +1,5 @@
+Autor: Bartek Kucypera, bk439964@students.mimuw.edu.pl
+
 Wszytko samo się upraszcza podczas budowania.  
 Skraca co się da (funkcje od stałych też).  
 Fixuje patologie np. Suma(x, -2) zamienia na Minus(x, 2).  
